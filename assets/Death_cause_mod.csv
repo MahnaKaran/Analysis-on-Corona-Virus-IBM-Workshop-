@@ -1,0 +1,14 @@
+Cause de décès;code;2020;2017
+Maladies de l'appareil circulatoire (I00-I99);I00-I99;30858;29696
+Tumeurs (C00-D48);C00-D48;28465;28275
+COVID-19;COVID-19;19620;0
+Maladies de l'appareil respiratoire (J00-J99);J00-J99;11184;12242
+Autres morts naturelles (D50-D89, H, L, M, O00-R99);D50-D89, H, L, M, O00-R99;7737;8611
+Morts non-naturelles (V01-Y98);V01-Y98;6780;6757
+Maladies du système nerveux et des organes des sens (G00-G99);G00-G99;5292;5828
+Troubles mentaux et du comportement (F00-F99);F00-F99;4756;5642
+Maladies de l'appareil digestif (K00-K93);K00-K93;4669;4846
+Maladies endocriniennes, nutritionnelles et métaboliques (E00-E90);E00-E90;2750;2687
+Maladies de l'appareil génito-urinaire (N00-N99);N00-N99;2638;2705
+Maladies infectieuses et parasitaires (A00-B99);A00-B99;2451;2340
+Codes d'utilisation particulière (U00-U99);U00-U99;0;0
