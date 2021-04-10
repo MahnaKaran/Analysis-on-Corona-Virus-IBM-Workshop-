@@ -2,6 +2,5 @@
 IBM Workshop with with Damiaan Zwietering
 https://gitlab.com/dzwietering/corona
 
-In this workshop we learned that how corona virus acts in different countries and how it can affect the number of deaths and cases. Afterwards, I focused more in Belgium to analyse different factors of corona virus in my local area.
-
-I compared the different causes of death in Belgium from 2017 until 2020. Afterwards, I have added the death cases of Corona for the year of 2019 and 2020. You can see and compare the different causes of mortality in Belgium.
+In this workshop we have seen the visualization of Corona virus in different countries.Afterwards, I focused more in Belgium to analyse different factors of Corona virus in my local area.
+I have compared different causes of mortality in Belgium from 2017 until 2020 and also compared it with the age of people.
